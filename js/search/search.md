@@ -8,10 +8,6 @@
 
 - Breadth-first search (BFS): This is a graph traversal algorithm that explores all the neighbors at the present depth level before moving on to the next depth level. It's commonly used to search through trees and other connected structures.
 
-- A\* search: This is a popular pathfinding algorithm that combines both the BFS and the greedy best-first search algorithms. It's commonly used in video games and robotics.
-
-- Dijkstra's algorithm: This is a shortest path algorithm that finds the shortest path between two nodes in a graph. It's commonly used in mapping and routing applications.
-
 - Binary search tree (BST): This is a binary tree data structure that allows for efficient search, insertion, and deletion of elements. It's commonly used in many programming applications.
 
 ## Having a good understanding of these search algorithms will give you a solid foundation for tackling a wide range of programming problems in a job interview.
